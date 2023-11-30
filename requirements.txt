@@ -1,5 +1,4 @@
 cs50
 Flask
-Gunicorn
 Flask-Session
 requests
